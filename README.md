@@ -1,2 +1,2 @@
 # scanf
-printf
+scanf("%d", &b); The program will read in an integer value that the user enters on the keyboard (%d is for integers, as is printf, so b must be declared as an int) and place that value into b. The scanf function uses the same placeholders as printf: int uses %d.
